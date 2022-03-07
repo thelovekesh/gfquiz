@@ -1,0 +1,2 @@
+= 1.0.0 =
+* First release of the Gravity Forms Notion Add-on plugin.
